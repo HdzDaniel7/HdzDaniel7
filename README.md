@@ -53,7 +53,7 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HdzDaniel7&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/HdzDaniel7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HdzDaniel7&theme=github-dark&hide_border=true)](https://github.com/HdzDaniel7)
 
 </div>
 
