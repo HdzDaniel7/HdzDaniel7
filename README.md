@@ -6,7 +6,9 @@
 **Ingeniero Mecatrónico · Automatización & Mejora de Procesos**
 
  México  
-![imt.hmda@gmail.com](mailto:imt.hmda@gmail.com) · ![DH.com](https://hdzdaniel7.github.io) · ![LinkedIn](https://linkedin.com/in/DanielAHernandezMendoza)
+[![Email](https://img.shields.io/badge/Email-imt.hmda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imt.hmda@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DH.com-185FA5?style=flat-square&logo=github&logoColor=white)](https://hdzdaniel7.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielAHernandezMendoza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DanielAHernandezMendoza)
 
 </div>
 
