@@ -47,55 +47,6 @@
 
 ---
 
-## Featured Projects · Proyectos Destacados
-
-### [Weld Seam Eccentricity Visualizer](https://github.com/HdzDaniel7/Weld-eccentricity-visualizer)
-**Python · NumPy · Matplotlib**
-
-3D visualization tool for weld seam concentricity and eccentricity analysis, enabling robot path adjustment and complementing metallographic studies. Developed independently during internship — **currently in active production.
-
-*Herramienta de visualización 3D de la concentricidad y excentricidad de cordones de soldadura. Actualmente en uso en producción.*
-
----
-
-### [PWM Music Score Editor](https://github.com/HdzDaniel7/Interfaz-Musical---Microcontroladores)
-**C · JavaScript · ESP32 · ATmega328P**
-
-Web-based score editor that generates PWM audio code for microcontrollers. Supports MIDI, JSON, and direct .INO export. Handles 200+ note compositions with low-latency 8-bit playback on Arduino Uno, ESP32, and ATmega328P.
-
-*Editor web de partituras que genera código de audio PWM para microcontroladores. Exportación a MIDI, JSON e .INO directo.*
-
----
-
-### [Microcontroller Music Box](https://github.com/HdzDaniel7/microcontroller-music-box)
-**C · ESP32 · ATmega328P**
-
-Embedded music playback system for microcontrollers using PWM signal generation. Energy-efficient design optimized for constrained embedded environments.
-
-*Sistema de reproducción musical embebido para microcontroladores mediante señales PWM. Diseño eficiente en consumo energético.*
-
----
-
-### [NutriApp](https://github.com/HdzDaniel7/NutriApp)
-**React · Node.js · SQLite · Python**
-
-Full-stack clinical nutrition web application. Features patient records, progress charts, personalized meal plans with PDF export, and a 1,600+ item Mexican food database with complete macro and micronutrient data. Role-based access system.
-
-*Aplicación web full-stack para nutrición clínica. Expedientes de pacientes, gráficas de avance, planes de alimentación exportables a PDF y base de datos de 1,600+ alimentos mexicanos.*
-
-> **Status:** In development · En desarrollo
-
----
-
-### [Personal Portfolio](https://github.com/HdzDaniel7/HdzDaniel7.github.io)
-**HTML · CSS · JavaScript**
-
-Personal portfolio website hosting full professional profile, project documentation, and CV. Available at [DH.com](https://hdzdaniel7.github.io).
-
-*Sitio web de portafolio personal con perfil profesional completo, documentación de proyectos y CV.*
-
----
-
 ## GitHub Stats · Estadísticas
 
 <div align="center">
@@ -134,20 +85,8 @@ EGEL-CENEVAL: Outstanding Performance · Desempeño Sobresaliente
 | English · Inglés | B2 — TOEFL-ITP Certified |
 | Japanese · Japonés | Basic · Básico |
 
-#---## Adding More Projects · Cómo agregar más proyectos
 
-#> To add a new project to this profile, copy the project block template below and paste it in the **Featured Projects** section:
-#>
-#> ```markdown
-#> ### [Project Name](https://github.com/HdzDaniel7/repo-name)
-#> **Tech · Stack**
-#> 
-#> Brief description in English.
-#> 
-#> *Descripción breve en español.*
-#> ```
-
-#---
+---
 
 <div align="center">
 
