@@ -6,7 +6,7 @@
 **Ingeniero Mecatrónico · Automatización & Mejora de Procesos**
 
  México  
-[imt.hmda@gmail.com](mailto:imt.hmda@gmail.com) · [DH.com](https://hdzdaniel7.github.io) · [LinkedIn](https://linkedin.com/in/DanielAHernandezMendoza)
+![imt.hmda@gmail.com](mailto:imt.hmda@gmail.com) · ![DH.com](https://hdzdaniel7.github.io) · ![LinkedIn](https://linkedin.com/in/DanielAHernandezMendoza)
 
 </div>
 
