@@ -5,7 +5,7 @@
 **Mechatronics Engineer · Automation & Process Improvement**  
 **Ingeniero Mecatrónico · Automatización & Mejora de Procesos**
 
-San Luis Potosí, SLP, México  
+ México  
 [imt.hmda@gmail.com](mailto:imt.hmda@gmail.com) · [DH.com](https://hdzdaniel7.github.io) · [LinkedIn](https://linkedin.com/in/DanielAHernandezMendoza)
 
 </div>
@@ -52,9 +52,9 @@ San Luis Potosí, SLP, México
 ### [Weld Seam Eccentricity Visualizer](https://github.com/HdzDaniel7/Weld-eccentricity-visualizer)
 **Python · NumPy · Matplotlib**
 
-3D visualization tool for weld seam concentricity and eccentricity analysis, enabling robot path adjustment and complementing metallographic studies. Developed independently during internship — **currently in active production use at MUVIQ**.
+3D visualization tool for weld seam concentricity and eccentricity analysis, enabling robot path adjustment and complementing metallographic studies. Developed independently during internship — **currently in active production.
 
-*Herramienta de visualización 3D de la concentricidad y excentricidad de cordones de soldadura. Actualmente en uso en producción en MUVIQ.*
+*Herramienta de visualización 3D de la concentricidad y excentricidad de cordones de soldadura. Actualmente en uso en producción.*
 
 ---
 
@@ -106,15 +106,6 @@ Personal portfolio website hosting full professional profile, project documentat
 
 ---
 
-## Experience · Experiencia
-
-| Period · Período | Role · Puesto | Company · Empresa |
-|---|---|---|
-| Feb 2025 – Oct 2025 | Projects Engineer Intern | MUVIQ · San Luis Potosí |
-| Jul 2024 – Jan 2025 | Maintenance Engineer Intern | MUVIQ · San Luis Potosí |
-
----
-
 ## Education · Educación
 
 **B.Eng. Mechatronics Engineering · Ingeniería Mecatrónica**  
@@ -143,22 +134,20 @@ EGEL-CENEVAL: Outstanding Performance · Desempeño Sobresaliente
 | English · Inglés | B2 — TOEFL-ITP Certified |
 | Japanese · Japonés | Basic · Básico |
 
----
+#---## Adding More Projects · Cómo agregar más proyectos
 
-## Adding More Projects · Cómo agregar más proyectos
+#> To add a new project to this profile, copy the project block template below and paste it in the **Featured Projects** section:
+#>
+#> ```markdown
+#> ### [Project Name](https://github.com/HdzDaniel7/repo-name)
+#> **Tech · Stack**
+#> 
+#> Brief description in English.
+#> 
+#> *Descripción breve en español.*
+#> ```
 
-> To add a new project to this profile, copy the project block template below and paste it in the **Featured Projects** section:
->
-> ```markdown
-> ### [Project Name](https://github.com/HdzDaniel7/repo-name)
-> **Tech · Stack**
-> 
-> Brief description in English.
-> 
-> *Descripción breve en español.*
-> ```
-
----
+#---
 
 <div align="center">
 
